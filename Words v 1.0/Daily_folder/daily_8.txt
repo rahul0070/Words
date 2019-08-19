@@ -1,0 +1,10 @@
+1.Admonish:Disaprove firmly/warn someone of something
+2.Cogent:Clear, logical, and convincing
+3.Deterrent:Something that discourages
+4.Deride:To treat someone as not worthy
+5.Condone:To accept a behavior that is morally wrong
+6.Intractable:Something that is hard to deal with
+7.Mollify:To make someone less angry
+8.Recant:Take back
+9.Irascible:Quickly aroused to anger (Pugnacious)
+10.Pugnacious:Eager or quick to argue or fight (Irascible)

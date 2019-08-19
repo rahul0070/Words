@@ -1,0 +1,10 @@
+1.Courtly:
+2.Pendantic:
+3.Boorish:
+4.Fulsome:
+5.Retribution:
+6.Recompense:
+7.Serene:
+8.Welter:
+9.Bilthe:
+10.Dulcet:

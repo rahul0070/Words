@@ -1,0 +1,10 @@
+1.Incessant:Not stopping
+2.Dilapidated:Run down
+3.Belligerent:Eager to fight
+4.Disparate:Fundamentally different
+5.Frustate:Prevent
+6.Complacent:Contended to fault
+7.Miscreant:Lawbreaker
+8.Iodiosyncrasy:peculiarity
+9.Baleful:Threatening
+10.Eminent:Highly respected

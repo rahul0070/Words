@@ -1,0 +1,8 @@
+1.Acerbic: Harsh
+2.Palpable: Detectable
+3.Tenuous: Flimsy
+4.Arrant: Complete
+5.Unmitigated: Unconditional
+6.Temer:
+7. Soporific: Sleep inducing
+8. Plodding: Slow moving

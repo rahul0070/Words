@@ -1,0 +1,10 @@
+       ---------------INSTRUCTIONS-------------------
+* This application is compatible with python 3.6.1 *
+1). Run Configure.py to configure the database before use
+2). Run "Words_GRE.py" to access the Main application.
+3). Run "Daily_GRE.py" to use temporary database.
+4). In "Daily_GRE.py" press the "Reset and Update" to delete the temporary table and enter the words to the main table.
+5). Use the "Add word" Button to add a new word to the DB.
+6) Use "Clear_db.py" to reset the database.
+7). Use "File_write.py" to update the contents of the Database to the text file "GRE_words.txt".
+8). Use "Delete_entry.py" to delete an incorrect entry from the database.

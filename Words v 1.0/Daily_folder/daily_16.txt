@@ -1,0 +1,10 @@
+1.Cordial:
+2.Acerbic:
+3.Espy:
+4.Flub:
+5.Fumble:
+6.Apparitional:
+7.Asomatous:
+8.Palpable:
+9.Enshroud:
+10.Slink:

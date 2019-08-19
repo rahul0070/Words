@@ -1,0 +1,10 @@
+1.Tedium:
+2.Poise:
+3.Scruplous:
+4.Botched:
+5.Blench:
+6.Saunter:
+7.Chary:
+8.Scruffy:
+9.Disheveled:
+10.Prowl:
